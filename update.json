@@ -1,0 +1,20 @@
+{
+    "status": true,
+    "game_version": "16.1",
+    "game_url": "https://alynsampmobile.pro/game/alyn_sampmobile.apk",
+    "game_files": "https://alynsampmobile.pro/api/game-files",
+
+    "arz_status": true,
+    "arz_version": "16.1",
+
+    "discord": "https://alynsampmobile.pro/discord",
+
+    "changelog": "https://alynsampmobile.pro/api/changelog",
+    "servers": "https://alynsampmobile.pro/api/servers",
+    "banned": "https://alynsampmobile.pro/api/banned",
+
+    "full_list": "https://alynsampmobile.pro/api/game-files-list?type=full",
+    "lite_list": "https://alynsampmobile.pro/api/game-files-list?type=lite",
+    "samp_list": "https://alynsampmobile.pro/api/game-files-list?type=samp",
+    "new_list": "https://alynsampmobile.pro/api/game-files-list?type=new"
+}
